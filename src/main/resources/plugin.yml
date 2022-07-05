@@ -1,0 +1,5 @@
+name: OrbitalEconomy
+version: ${project.version}
+main: xyz.directplan.orbitaleconomy.OrbitalEconomy
+authors: [ DirectPlan ]
+description: Orbital's freelancer trial plugin
